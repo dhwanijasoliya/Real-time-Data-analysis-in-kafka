@@ -19,5 +19,3 @@ We are going to use different technologies such as Python, Amazon Web Services (
 - Apache Kafka
 
 
-## Dataset Used
-You can use any dataset,
